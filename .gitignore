@@ -4,5 +4,5 @@ target
 .project
 /logs/*
 *.iml
-##.idea/*
+.idea/*
 *.DS_Store

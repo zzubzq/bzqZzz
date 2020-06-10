@@ -5,7 +5,7 @@
  * Copyright (c) 2013 UniqueSoft.
  * All rights reserved.
  */
-package com.bzq.tool.excel;
+package com.bzq.bzqZzz.tool.excel;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

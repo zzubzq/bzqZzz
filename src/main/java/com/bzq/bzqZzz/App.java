@@ -1,4 +1,4 @@
-package com.bzq;
+package com.bzq.bzqZzz;
 
 /**
  * Hello world!

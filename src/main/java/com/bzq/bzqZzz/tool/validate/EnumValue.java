@@ -1,4 +1,4 @@
-package com.bzq.tool.validate;
+package com.bzq.bzqZzz.tool.validate;
 
 import javax.validation.Constraint;
 import javax.validation.ConstraintValidator;

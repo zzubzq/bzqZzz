@@ -1,4 +1,4 @@
-package com.bzq.util;
+package com.bzq.bzqZzz.util;
 
 import com.alibaba.fastjson.JSON;
 import com.google.common.collect.Lists;

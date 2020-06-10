@@ -1,4 +1,4 @@
-package com.bzq.util;
+package com.bzq.bzqZzz.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
